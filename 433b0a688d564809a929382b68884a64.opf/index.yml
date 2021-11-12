@@ -1,0 +1,11 @@
+id: c642a3537999434ba5e4320b3a7d08f5
+annotation_type: index
+revision: '00001'
+annotations:
+  1236e14af9974fb3a692aed70e51a22d:
+    parts: {}
+    span:
+    - vol: 1
+      start: 0
+      end: 14804
+    work_id: D1118
